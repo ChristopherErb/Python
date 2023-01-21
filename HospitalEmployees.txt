@@ -1,2 +1,0 @@
-Melanie Kline 1 True 25.0
-Bob Bobbertson 3 False 3.50
